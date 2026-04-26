@@ -210,6 +210,13 @@ td,th {
     overflow-x: hidden;
   }
 
+  .trust-badges {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; /* keeps them aligned to the right */
+  gap: 6px; /* spacing between the badges */
+}
+
   section {
     padding: 60px 15px;
     text-align: center;
