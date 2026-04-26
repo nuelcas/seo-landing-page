@@ -19,4 +19,4 @@ This project is a fully SEO-optimized landing page designed to rank for:
 
 ## Deployment
 
-Live URL (Your site url): https://seolandingpage.netlify.app
+Live URL (Your page url): https://ecorunningshoes.netlify.app/
