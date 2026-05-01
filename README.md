@@ -74,8 +74,8 @@ It combines **on-page SEO, performance optimization, and conversion-focused desi
 
 ## Project Structure
 
-
-project-folder/
+```
+seo-landing-page/
 │
 ├── index.html # Main landing page
 ├── styles.css # Styling and responsive layout
@@ -92,6 +92,7 @@ project-folder/
 │ ├── nike.jpg
 │ └── hero-bg.jpg
 
+```
 
 ---
 
@@ -145,5 +146,5 @@ This project is for educational and portfolio purposes.
 
 ## Author
 
-Built by Casmir Onyekani
-Full-Stack Developer & Technical Writer
+#### Built by: Casmir Onyekani
+#### Full-Stack Developer & Technical Writer
